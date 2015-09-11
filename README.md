@@ -5,4 +5,4 @@ IDE 使用 AndroidStudio
 
 调研三种实现弹窗的方式
 
-博客地址：http://www.yigeek.com/wordpress/
+博客地址：http://www.yigeek.com/wordpress/archives/61
